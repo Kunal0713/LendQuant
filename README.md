@@ -1,12 +1,7 @@
 # LendQuant
 
-AI-Powered Loan Recovery & Risk Analytics Platform
-
 🌐 **Live Demo:** https://lendquant.vercel.app/
 
-LendQuant is an intelligent financial analytics platform designed to improve loan collection and recovery efficiency.
-
-# LendQuant
 ### AI-Powered Loan Recovery & Risk Analytics Platform
 
 LendQuant is an intelligent financial analytics platform designed to improve loan collection and recovery efficiency for banks and lending institutions.  
